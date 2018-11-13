@@ -1,7 +1,16 @@
 table.list td, table.list th {
-  height: 40px;
   vertical-align: middle;
 }
 td.name, td.username, td.firstname, td.lastname, td.email {
-  text-align: center !important;
+  text-align: center;
+}
+table#time-report td,
+table#time-report th {
+  text-align: left;
+}
+.query-totals {
+  text-align: unset;
+}
+table.list thead tr th span.hours {
+  color: #fff !important;
 }

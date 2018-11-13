@@ -62,7 +62,7 @@ body.controller-dmsf table.list th > div{text-align: right;}
 table.list.issues th[title='Sort by "Assigned To"'], table.list.issues th[title='Sort by "% Done"'] { width: 10%; }
 table.list.issues td{ vertical-align: middle; }
 table.list.issues td.id{ width: 35px; }
-table.list th { background-color: #6f7c93; text-align: center !important; }
+table.list th { background-color: #6f7c93; text-align: center; }
 table.list th a{ color: #f5f6f7; }
 table.list tbody tr:hover { background-color: #dee4e9; transition: .5s; }
 table.list th.checkbox{ width: 50px; text-align: none; }
