@@ -8,9 +8,6 @@ table#time-report td,
 table#time-report th {
   text-align: left;
 }
-.query-totals {
-  text-align: unset;
-}
 table.list thead tr th span.hours {
   color: #fff !important;
 }
